@@ -8,7 +8,6 @@ link: https://youtu.be/BifRWbYc8EU
 # Landing Page
 player selects tournament and username
 <br><br>
-![index](index,png)
 
 # Strategy Page
 Figure below shows Elo ratings of a number of opponents (left plot), how they play special moves (left plot, on hover), and performance in long versus short term games (right plot).
