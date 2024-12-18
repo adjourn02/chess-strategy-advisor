@@ -13,8 +13,8 @@ player selects tournament and username
 # Strategy Page
 Figure below shows Elo ratings of a number of opponents (left plot), how they play special moves (left plot, on hover), and performance in long versus short term games (right plot).
 <br><br>
-![elo](elo,png)
+![elo](elo.png)
 <br><br>
 Figure below shows opening strategies when playing white (left plot) or black (right plot). Strategies in red hues are not recommended while in blue hues are recommended.
 <br><br>
-![strategy](strategy,png)
+![strategy](strategy.png)
