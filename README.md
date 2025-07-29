@@ -7,12 +7,12 @@ CSA is developed in Python using the Flask framework. It leverages MongoDB as th
 - The supporting scripts interact with the Chess.com public API and web pages to collect player data, compute strengths and weaknesses, and update the MongoDB database. These scripts are intended to run asynchronously and should be executed regularly to keep the data current.
 
 ## Installation
-1. Install Python 3.11 or higher. Installation files and instructions are available at https://www.python.org
-2. Install the required packages from a terminal with the command: pip install -r requirements.txt
+1. Install Python 3.11 or higher. Installation files and instructions are available at https://www.python.org.
+2. Install the required packages from a terminal with the command: `pip install -r requirements.txt`
 
 ## Execution
-1. From a terminal start the backend with the command: python csa_backend.py
-2. From a different terminal start the frontend with the command: python app.py
+1. From a terminal start the backend with the command: `python csa_backend.py`
+2. From a different terminal start the frontend with the command: `python app.py`
 3. From a web browser (Chrome in light mode is recommended) open the page: http://127.0.0.1:8000
 4. Select the target tournament then click submit.
 5. Select the player you want to analyze strategies for then click submit.
@@ -26,9 +26,9 @@ User interface is not visible: make sure your browser is in light mode.
 ## How the database is generated (provided for reference)
 NOTE: This is NOT required to run CSA. The database has already been generated and the credentials to access it are embedded in the source code for CSA so it does not need to be re-generated to use CSA.
 1. Follow the instructions to install Stockfisk at https://stockfishchess.org/download/. Version 17 was used to generate the current database on MongoDB.
-2. From a terminal set the environment variable STOCKFISH_PATH to the path of Stockfish executable. (for example on macOS: export STOCKFISH_PATH=/opt/homebrew/bin/stockfish)
-3. Then from the same terminal run the command: python retrieve_tournaments.py (this will take several minutes to run)
-4. Then from the same terminal run the command: python retrieve_player_game_history.py (this will take a day or more to run depending on the speed of your machine)
+2. From a terminal set the environment variable STOCKFISH_PATH to the path of Stockfish executable. (for example on macOS: `export STOCKFISH_PATH=/opt/homebrew/bin/stockfish`)
+3. Then from the same terminal run the command: `python retrieve_tournaments.py` (this will take several minutes to run)
+4. Then from the same terminal run the command: `python retrieve_player_game_history.py` (this will take a day or more to run depending on the speed of your machine)
 
 ## Paper
 The study's paper can be found on https://drive.google.com/file/d/1I_ndoT6L7sVo8AN_Un9e9n9_WopFye4k/view?usp=sharing.
