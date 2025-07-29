@@ -1,12 +1,15 @@
 # Chess Strategy Advisor
-
 A web based tool to help a player prepare for an upcoming tournament on Chess.com. It analyzes opponents in the tournament as a group, looking for common patterns of weaknesses to exploit and strengths to avoid. Specifically, it looks into opening moves, how opponents perform in long versus short games, and how well they play special moves (Castling and En Passant).
 
+# Paper
+The study's paper can be found on https://drive.google.com/file/d/1I_ndoT6L7sVo8AN_Un9e9n9_WopFye4k/view?usp=sharing.
+
 # Poster Presentation
-link: https://youtu.be/BifRWbYc8EU
+Poster: https://drive.google.com/file/d/1I_ndoT6L7sVo8AN_Un9e9n9_WopFye4k/view?usp=sharing
+Video: https://youtu.be/BifRWbYc8EU
 
 # Landing Page
-player selects tournament and username
+Player selects tournament and username
 <br><br>
 ![index](index.png)
 
