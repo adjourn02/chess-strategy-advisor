@@ -9,16 +9,16 @@ CSA is developed in Python using the Flask framework. It leverages MongoDB as th
 ## Landing Page
 Player selects tournament and username
 <br><br>
-![index](index.png)
+![index](images/index.png)
 
 ## Strategy Page
 Figure below shows Elo ratings of a group of opponents (left plot), how they play special moves (left plot, on hover), and performance in long versus short term games (right plot).
 <br><br>
-![elo](elo.png)
+![elo](images/elo.png)
 <br><br>
 Figure below shows opening strategies when playing white (left plot) or black (right plot). Strategies in red hues are not recommended while in blue hues are recommended.
 <br><br>
-![strategy](strategy.png)
+![strategy](images/strategy.png)
 
 ## Installation
 1. Install Python 3.11 or higher. Installation files and instructions are available at https://www.python.org.
