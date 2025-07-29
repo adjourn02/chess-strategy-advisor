@@ -1,0 +1,143 @@
+body {
+    background-size: cover;
+    font-family: 'Georgia', serif;
+}
+
+.chart-container {
+    display: grid; /* Use grid layout */
+    grid-template-columns: 1fr 1fr; /* Two equal columns */
+}
+
+.chart {
+    height: 600px; /* Set a fixed height for consistency */
+    border: 1px solid #ccc; /* Optional: add a border for visibility */
+}
+
+#tooltip1 {
+    background-color: black;
+    position: fixed;
+    border: 2px solid #ffc469;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#tooltip1-info {
+    font-size: 14px;
+    color: #ffc469;
+    font-family: sans-serif;
+}
+
+li span {
+  position: relative;
+  left: -10px;
+}
+
+select {
+        background-color: black;
+        color: #eab548;
+        border: 2px solid #eab548;
+        border-radius: 5px;
+        padding: 8px;
+        font-size: 20px;
+        margin: 10px 0;
+        cursor: pointer;
+        font-family: serif;
+}
+
+hr {
+    border: 1px solid #eab548;
+}
+
+body {
+    background-size: cover;
+    font-family: 'Georgia', serif;
+}
+
+.box {
+    background-color: rgba(0, 0, 0, 0.8);
+    border: 2px solid #eab548;
+    border-radius: 8px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 28px;
+    color: #eab548;
+}
+
+#selected_player::before {
+    content: '♔';
+    font-size: 40px;
+    margin-right: 6px;
+    color: #eab548;
+}
+
+#selected_player::after {
+    content: '♔';
+    font-size: 40px;
+    margin-left: 6px;
+    color: #eab548;
+}
+
+.chart-container {
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+}
+
+.chart {
+    padding: 25px;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.container {
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.select_label {
+    font-size: 24px;
+    font-weight: bold;
+    color: #eab548;
+}
+
+select:focus,input:focus {
+      outline: none;          /* Remove the default outline on focus */
+}
+
+.plot_notes {
+    font-size: 16px;
+    font-style: italic;
+    color: #ffc469;
+    padding:10px;
+}
+
+#load1 {
+    position: absolute;
+    left: 19%;
+    top: 70%;
+}
+
+#load2 {
+    position: absolute;
+    left: 69%;
+    top: 70%;
+}
+
+#load3 {
+    position: absolute;
+    left: 19%;
+    bottom: -100%;
+}
+
+#load4 {
+    position: absolute;
+    left: 69%;
+    bottom: -100%;
+}
+
+.load-img {
+    height: 180px;
+    width: auto;
+}

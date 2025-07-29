@@ -1,0 +1,127 @@
+body {
+    background-size: cover;
+    color: #f0f0f0;
+    font-family: 'Georgia', serif;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding:20px;
+}
+
+select {
+    width: 520px;               /* Set the width of the input field */
+    height: 40px;               /* Set the height of the input field */
+    font-size: 14px;            /* Set the font size of the text inside the input */
+    transition: all 0.3s ease;  /* Smooth transition for hover and focus effects */
+    font-style: italic;
+    background-color: #333;
+    color: #eab548;
+    border: 2px solid #eab548;
+    padding: 5px;
+    text-align: center;
+    text-align-last: center; /* Aligns selected option text in modern browsers */
+}
+
+/* Change the border color on focus */
+select:focus,input:focus {
+      outline: none;          /* Remove the default outline on focus */
+}
+
+/* Change the border color on hover */
+select:hover,input:hover {
+}
+
+/* Add focus effect for the input when user starts typing */
+select:focus::placeholder,input:focus::placeholder {
+      color: #eab548;           /* Change placeholder color when focused */
+}
+
+/* Optional: Add label styling */
+label {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    display: inline-block;
+    font-family: 'Georgia', serif;
+}
+
+/* Chess-themed Box Styling */
+.box {
+    background-color: rgba(0, 0, 0, 0.8);
+    border: 2px solid #eab548;
+    padding: 30px;
+    padding-left: 90px;
+    padding-right: 90px;
+    border-radius: 8px;
+    width: 50%;
+    max-width: 400px;
+    margin: 0 auto; /* Centers the box horizontally */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centers content horizontally */
+    justify-content: center; /* Centers content vertically */
+    color: #f0f0f0;
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+    color: #eab548;
+}
+
+input[type="text"] {
+    background-color: #333;
+    color: #eab548;
+    border: 2px solid #eab548;
+    padding: 5px;
+    width: 506.5px;
+    text-align: center;
+    text-align-last: center; /* Aligns selected option text in modern browsers */
+}
+
+input[type="submit"] {
+    width: 520px;
+    background-color: #eab548;
+    color: #333;
+    border: 1px;
+    padding: 8px 12px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-weight: bold;
+}
+
+input[type="submit"]:hover {
+    background-color: #eab548;
+}
+
+hr {
+    border: 1px solid #eab548;
+}
+
+.tournament-info {
+    font-size: 28px;
+    font-weight: bolder;
+    padding-top: 10px;
+    font-family: 'Georgia', serif;
+    text-align: center;
+    color: #eab548;
+}
+
+#tourneyDropdown::before {
+    content: '🏆';
+    font-size: 30px;
+    margin-right: 4px;
+    color: #eab548;
+}
+
+#playerDropdown::before {
+    content: '♘';
+    font-size: 34px;
+    margin-right: 3px;
+    color: #eab548;
+}
+
+#tourney {
+    align-content: center;
+}

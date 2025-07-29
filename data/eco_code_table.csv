@@ -1,0 +1,501 @@
+ECO_Code,Name,Moves,Short_Name,Ref_Link
+A00,Uncommon Opening,,Uncommon Opening,https://www.chess.com/openings/Polish-Opening
+A01,Nimzovich-Larsen Attack,1 b3,Nimzovich-Larsen Attack,https://www.chess.com/openings/Nimzowitsch-Larsen-Attack
+A02,Bird's Opening,1 f4,Bird's Opening,https://www.chess.com/openings/Birds-Opening
+A03,Bird's Opening,1 f4 d5,Bird's Opening,https://www.chess.com/openings/Birds-Opening
+A04,Reti Opening,1 Nf3,Reti Opening,https://www.chess.com/openings/Reti-Opening
+A05,Reti Opening,1 Nf3 Nf6,Reti Opening,https://www.chess.com/openings/Reti-Opening
+A06,Reti Opening,1 Nf3 d5,Reti Opening,https://www.chess.com/openings/Reti-Opening
+A07,King's Indian Attack,1 Nf3 d5 2 g3,King's Indian Attack,https://www.chess.com/openings/Kings-Indian-Attack
+A08,King's Indian Attack,1 Nf3 d5 2 g3 c5 3 Bg2,King's Indian Attack,https://www.chess.com/openings/Kings-Indian-Attack
+A09,Reti Opening,1 Nf3 d5 2 c4,Reti Opening,https://www.chess.com/openings/Reti-Opening
+A10,English,1 c4,English,https://www.chess.com/openings/English-Opening
+A11,"English, Caro-Kann Defensive System",1 c4 c6,English,https://www.chess.com/openings/English-Opening
+A12,English with b3,1 c4 c6 2 Nf3 d5 3 b3,English,https://www.chess.com/openings/English-Opening
+A13,English,1 c4 e6,English,https://www.chess.com/openings/English-Opening
+A14,English,1 c4 e6 2 Nf3 d5 3 g3 Nf6 4 Bg2 Be7 5 O-O,English,https://www.chess.com/openings/English-Opening
+A15,English,1 c4 Nf6,English,https://www.chess.com/openings/English-Opening
+A16,English,1 c4 Nf6 2 Nc3,English,https://www.chess.com/openings/English-Opening
+A17,English,1 c4 Nf6 2 Nc3 e6,English,https://www.chess.com/openings/English-Opening
+A18,"English, Mikenas-Carls",1 c4 Nf6 2 Nc3 e6 3 e4,English,https://www.chess.com/openings/English-Opening
+A19,"English, Mikenas-Carls, Sicilian Variation",1 c4 Nf6 2 Nc3 e6 3 e4 c5,English,https://www.chess.com/openings/English-Opening
+A20,English,1 c4 e5,English,https://www.chess.com/openings/English-Opening
+A21,English,1 c4 e5 2 Nc3,English,https://www.chess.com/openings/English-Opening
+A22,English,1 c4 e5 2 Nc3 Nf6,English,https://www.chess.com/openings/English-Opening
+A23,"English, Bremen System, Keres Variation",1 c4 e5 2 Nc3 Nf6 3 g3 c6,English,https://www.chess.com/openings/English-Opening
+A24,"English, Bremen System with ...g6",1 c4 e5 2 Nc3 Nf6 3 g3 g6,English,https://www.chess.com/openings/English-Opening
+A25,English,1 c4 e5 2 Nc3 Nc6,English,https://www.chess.com/openings/English-Opening
+A26,English,1 c4 e5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 d3 d6,English,https://www.chess.com/openings/English-Opening
+A27,"English, Three Knights System",1 c4 e5 2 Nc3 Nc6 3 Nf3,English,https://www.chess.com/openings/English-Opening
+A28,English,1 c4 e5 2 Nc3 Nc6 3 Nf3 Nf6,English,https://www.chess.com/openings/English-Opening
+A29,"English, Four Knights, Kingside Fianchetto",1 c4 e5 2 Nc3 Nc6 3 Nf3 Nf6 4 g3,English,https://www.chess.com/openings/English-Opening
+A30,"English, Symmetrical",1 c4 c5,English Opening: Symmetrical,https://www.chess.com/openings/English-Opening-Symmetrical-Variation
+A31,"English, Symmetrical, Benoni Formation",1 c4 c5 2 Nf3 Nf6 3 d4,English Opening: Symmetrical,https://www.chess.com/openings/English-Opening-Symmetrical-Variation
+A32,"English, Symmetrical Variation",1 c4 c5 2 Nf3 Nf6 3 d4 cxd4 4 Nxd4 e6,English Opening: Symmetrical,https://www.chess.com/openings/English-Opening-Symmetrical-Variation
+A33,"English, Symmetrical",1 c4 c5 2 Nf3 Nf6 3 d4 cxd4 4 Nxd4 e6 5 Nc3 Nc6,English Opening: Symmetrical,https://www.chess.com/openings/English-Opening-Symmetrical-Variation
+A34,"English, Symmetrical",1 c4 c5 2 Nc3,English Opening: Symmetrical,https://www.chess.com/openings/English-Opening-Symmetrical-Variation
+A35,"English, Symmetrical",1 c4 c5 2 Nc3 Nc6,English Opening: Symmetrical,https://www.chess.com/openings/English-Opening-Symmetrical-Variation
+A36,English,1 c4 c5 2 Nc3 Nc6 3 g3,English Opening: Symmetrical,https://www.chess.com/openings/English-Opening-Symmetrical-Variation
+A37,"English, Symmetrical",1 c4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 Nf3,English Opening: Symmetrical,https://www.chess.com/openings/English-Opening-Symmetrical-Variation
+A38,"English, Symmetrical",1 c4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 Nf3 Nf6,English Opening: Symmetrical,https://www.chess.com/openings/English-Opening-Symmetrical-Variation
+A39,"English, Symmetrical, Main line with d4",1 c4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 Nf3 Nf6 6 O-O O-O 7 d4,English Opening: Symmetrical,https://www.chess.com/openings/English-Opening-Symmetrical-Variation
+A40,Queen's Pawn Game,1 d4,Queen's Pawn Game,https://www.chess.com/openings/Queens-Pawn-Opening
+A41,Queen's Pawn Game (with ...d6),1 d4 d6,Queen's Pawn Game,https://www.chess.com/openings/Queens-Pawn-Opening
+A42,"Modern Defense, Averbakh System",1 d4 d6 2 c4 g6 3 Nc3 Bg7 4 e4,Modern Defense,https://www.chess.com/openings/Modern-Defense
+A43,Old Benoni,1 d4 c5,Old Benoni Defense,https://www.chess.com/openings/Old-Benoni-Defense
+A44,Old Benoni Defense,1 d4 c5 2 d5 e5,Old Benoni Defense,https://www.chess.com/openings/Old-Benoni-Defense
+A45,Queen's Pawn Game,1 d4 Nf6,Queen's Pawn Game,https://www.chess.com/openings/Queens-Pawn-Opening
+A46,Queen's Pawn Game,1 d4 Nf6 2 Nf3,Queen's Pawn Game,https://www.chess.com/openings/Queens-Pawn-Opening
+A47,Queen's Indian,1 d4 Nf6 2 Nf3 b6,Queen's Indian,https://www.chess.com/openings/Queens-Indian-Defense
+A48,King's Indian,1 d4 Nf6 2 Nf3 g6,King's Indian,https://www.chess.com/openings/Kings-Indian-Defense
+A49,"King's Indian, Fianchetto without c4",1 d4 Nf6 2 Nf3 g6 3 g3,King's Indian,https://www.chess.com/openings/Kings-Indian-Defense
+A50,Queen's Pawn Game,1 d4 Nf6 2 c4,Queen's Pawn Game,https://www.chess.com/openings/Queens-Pawn-Opening
+A51,Budapest Gambit,1 d4 Nf6 2 c4 e5,Budapest Gambit,https://www.chess.com/openings/Budapest-Gambit
+A52,Budapest Gambit,1 d4 Nf6 2 c4 e5 3 dxe5 Ng4,Budapest Gambit,https://www.chess.com/openings/Budapest-Gambit
+A53,Old Indian,1 d4 Nf6 2 c4 d6,Old Indian,https://www.chess.com/openings/Old-Indian-Defense
+A54,"Old Indian, Ukrainian Variation, 4.Nf3",1 d4 Nf6 2 c4 d6 3 Nc3 e5 4 Nf3,Old Indian,https://www.chess.com/openings/Old-Indian-Defense
+A55,"Old Indian, Main line",1 d4 Nf6 2 c4 d6 3 Nc3 e5 4 Nf3 Nbd7 5 e4,Old Indian,https://www.chess.com/openings/Old-Indian-Defense
+A56,Benoni Defense,1 d4 Nf6 2 c4 c5,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A57,Benko Gambit,1 d4 Nf6 2 c4 c5 3 d5 b5,Benko Gambit,https://www.chess.com/openings/Benko-Gambit
+A58,Benko Gambit,1 d4 Nf6 2 c4 c5 3 d5 b5 4 cxb5 a6 5 bxa6,Benko Gambit,https://www.chess.com/openings/Benko-Gambit
+A59,Benko Gambit,1 d4 Nf6 2 c4 c5 3 d5 b5 4 cxb5 a6 5 bxa6 Bxa6 6 Nc3 d6 7 e4,Benko Gambit,https://www.chess.com/openings/Benko-Gambit
+A60,Benoni Defense,1 d4 Nf6 2 c4 c5 3 d5 e6,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A61,Benoni,1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A62,"Benoni, Fianchetto Variation",1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6 7 g3 Bg7 8 Bg2 O-O,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A63,"Benoni, Fianchetto, 9...Nbd7",1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6 7 g3 Bg7 8 Bg2 O-O 9,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A64,"Benoni, Fianchetto, 11...Re8",1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 Nf3 g6 7 g3 Bg7 8 Bg2 O-O 9,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A65,"Benoni, 6.e4",1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A66,Benoni,1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A67,"Benoni, Taimanov Variation",1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4 Bg7 8 Bb5+,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A68,"Benoni, Four Pawns Attack",1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4 Bg7 8 Nf3 O-O,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A69,"Benoni, Four Pawns Attack, Main line",1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 f4 Bg7 8 Nf3 O-O 9,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A70,"Benoni, Classical with 7.Nf3",1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A71,"Benoni, Classical, 8.Bg5",1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Bg5,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A72,"Benoni, Classical without 9.O-O",1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A73,"Benoni, Classical, 9.O-O",1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A74,"Benoni, Classical, 9...a6, 10.a4",1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A75,"Benoni, Classical with ...a6 and 10...Bg4",1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A76,"Benoni, Classical, 9...Re8",1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A77,"Benoni, Classical, 9...Re8, 10.Nd2",1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A78,"Benoni, Classical with ...Re8 and ...Na6",1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A79,"Benoni, Classical, 11.f3",1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nc3 exd5 5 cxd5 d6 6 e4 g6 7 Nf3 Bg7 8 Be2 O-O 9,Benoni Defense,https://www.chess.com/openings/Benoni-Defense-Modern-Variation
+A80,Dutch,1 d4 f5,Dutch Defense,https://www.chess.com/openings/Dutch-Defense
+A81,Dutch,1 d4 f5 2 g3,Dutch Defense,https://www.chess.com/openings/Dutch-Defense
+A82,"Dutch, Staunton Gambit",1 d4 f5 2 e4,Dutch Defense,https://www.chess.com/openings/Dutch-Defense
+A83,"Dutch, Staunton Gambit",1 d4 f5 2 e4 fxe4 3 Nc3 Nf6 4 Bg5,Dutch Defense: Staunton Gambit,https://www.chess.com/openings/Dutch-Defense-Staunton-Gambit-Accepted
+A84,Dutch,1 d4 f5 2 c4,Dutch Defense,https://www.chess.com/openings/Dutch-Defense
+A85,"Dutch, with c4 & Nc3",1 d4 f5 2 c4 Nf6 3 Nc3,Dutch Defense,https://www.chess.com/openings/Dutch-Defense
+A86,Dutch,1 d4 f5 2 c4 Nf6 3 g3,Dutch Defense,https://www.chess.com/openings/Dutch-Defense
+A87,"Dutch, Leningrad, Main Variation",1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2 Bg7 5 Nf3,Dutch Defense,https://www.chess.com/openings/Dutch-Defense
+A88,"Dutch, Leningrad, Main Variation with c6",1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2 Bg7 5 Nf3 O-O 6 O-O d6 7 Nc3 c6,Dutch Defense,https://www.chess.com/openings/Dutch-Defense
+A89,"Dutch, Leningrad, Main Variation with Nc6",1 d4 f5 2 c4 Nf6 3 g3 g6 4 Bg2 Bg7 5 Nf3 O-O 6 O-O d6 7 Nc3 Nc6,Dutch Defense,https://www.chess.com/openings/Dutch-Defense
+A90,Dutch,1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2,Dutch Defense,https://www.chess.com/openings/Dutch-Defense
+A91,Dutch Defense,1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7,Dutch Defense,https://www.chess.com/openings/Dutch-Defense
+A92,Dutch,1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O,Dutch Defense,https://www.chess.com/openings/Dutch-Defense
+A93,"Dutch, Stonewall, Botvinnik Variation",1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d5 7 b3,Dutch Defense: Stonewall,https://www.chess.com/openings/Dutch-Defense-Fianchetto-Ilyin-Zhenevsky-Stonewall-Variation
+A94,"Dutch, Stonewall with Ba3",1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d5 7 b3 c6 8 Ba3,Dutch Defense: Stonewall,https://www.chess.com/openings/Dutch-Defense-Fianchetto-Ilyin-Zhenevsky-Stonewall-Variation
+A95,"Dutch, Stonewall",1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d5 7 Nc3 c6,Dutch Defense: Stonewall,https://www.chess.com/openings/Dutch-Defense-Fianchetto-Ilyin-Zhenevsky-Stonewall-Variation
+A96,"Dutch, Classical Variation",1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6,Dutch Defense,https://www.chess.com/openings/Dutch-Defense
+A97,"Dutch, Ilyin-Genevsky",1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6 7 Nc3 Qe8,Dutch Defense,https://www.chess.com/openings/Dutch-Defense
+A98,"Dutch, Ilyin-Genevsky Variation with Qc2",1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6 7 Nc3 Qe8 8 Qc2,Dutch Defense,https://www.chess.com/openings/Dutch-Defense
+A99,"Dutch, Ilyin-Genevsky Variation with b3",1 d4 f5 2 c4 Nf6 3 g3 e6 4 Bg2 Be7 5 Nf3 O-O 6 O-O d6 7 Nc3 Qe8 8 b3,Dutch Defense,https://www.chess.com/openings/Dutch-Defense
+B00,Uncommon King's Pawn Opening,1 e4,Uncommon King's Pawn Opening,https://www.chess.com/openings/Polish-Opening
+B01,Scandinavian,1 e4 d5,Scandinavian,https://www.chess.com/openings/Scandinavian-Defense
+B02,Alekhine's Defense,1 e4 Nf6,Alekhine's Defense,https://www.chess.com/openings/Alekhines-Defense
+B03,Alekhine's Defense,1 e4 Nf6 2 e5 Nd5 3 d4,Alekhine's Defense,https://www.chess.com/openings/Alekhines-Defense
+B04,"Alekhine's Defense, Modern",1 e4 Nf6 2 e5 Nd5 3 d4 d6 4 Nf3,Alekhine's Defense,https://www.chess.com/openings/Alekhines-Defense
+B05,"Alekhine's Defense, Modern",1 e4 Nf6 2 e5 Nd5 3 d4 d6 4 Nf3 Bg4,Alekhine's Defense,https://www.chess.com/openings/Alekhines-Defense
+B06,Robatsch,1 e4 g6,Robatsch,https://www.chess.com/openings/Polish-Opening
+B07,Pirc,1 e4 d6 2 d4 Nf6,Pirc Defense,https://www.chess.com/openings/Pirc-Defense-2.d4-Nf6
+B08,"Pirc, Classical",1 e4 d6 2 d4 Nf6 3 Nc3 g6 4 Nf3,Pirc Defense,https://www.chess.com/openings/Pirc-Defense-2.d4-Nf6
+B09,"Pirc, Austrian Attack",1 e4 d6 2 d4 Nf6 3 Nc3 g6 4 f4,Pirc Defense: Austrian Attack,https://www.chess.com/openings/Pirc-Defense-Main-Line-Austrian-Attack
+B10,Caro-Kann,1 e4 c6,Caro-Kann Defense,https://www.chess.com/openings/Caro-Kann-Defense
+B11,"Caro-Kann, Two Knights, 3...Bg4",1 e4 c6 2 Nc3 d5 3 Nf3 Bg4,Caro-Kann Defense,https://www.chess.com/openings/Caro-Kann-Defense
+B12,Caro-Kann Defense,1 e4 c6 2 d4,Caro-Kann Defense,https://www.chess.com/openings/Caro-Kann-Defense
+B13,"Caro-Kann, Exchange",1 e4 c6 2 d4 d5 3 exd5 cxd5,Caro-Kann Defense: Exchange,https://www.chess.com/openings/Caro-Kann-Defense-Exchange-Variation
+B14,"Caro-Kann, Panov-Botvinnik Attack",1 e4 c6 2 d4 d5 3 exd5 cxd5 4 c4 Nf6 5 Nc3 e6,Caro-Kann Defense: Exchange,https://www.chess.com/openings/Caro-Kann-Defense-Exchange-Variation
+B15,Caro-Kann,1 e4 c6 2 d4 d5 3 Nc3,Caro-Kann Defense,https://www.chess.com/openings/Caro-Kann-Defense
+B16,"Caro-Kann, Bronstein-Larsen Variation",1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Nf6 5 Nxf6+ gxf6,Caro-Kann Defense,https://www.chess.com/openings/Caro-Kann-Defense
+B17,"Caro-Kann, Steinitz Variation",1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Nd7,Caro-Kann Defense,https://www.chess.com/openings/Caro-Kann-Defense
+B18,"Caro-Kann, Classical",1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Bf5,Caro-Kann Defense: Classical,https://www.chess.com/openings/Caro-Kann-Defense-Classical-Variation
+B19,"Caro-Kann, Classical",1 e4 c6 2 d4 d5 3 Nc3 dxe4 4 Nxe4 Bf5 5 Ng3 Bg6 6 h4 h6 7 Nf3 Nd7,Caro-Kann Defense: Classical,https://www.chess.com/openings/Caro-Kann-Defense-Classical-Variation
+B20,Sicilian,1 e4 c5,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B21,"Sicilian, 2.f4 and 2.d4",1 e4 c5 2 f4,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B22,"Sicilian, Alapin",1 e4 c5 2 c3,Sicilian Defense: Alapin,https://www.chess.com/openings/Alapin-Sicilian-Defense
+B23,"Sicilian, Closed",1 e4 c5 2 Nc3,Sicilian Defense: Closed,https://www.chess.com/openings/Closed-Sicilian-Defense
+B24,"Sicilian, Closed",1 e4 c5 2 Nc3 Nc6 3 g3,Sicilian Defense: Closed,https://www.chess.com/openings/Closed-Sicilian-Defense
+B25,"Sicilian, Closed",1 e4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 d3 d6,Sicilian Defense: Closed,https://www.chess.com/openings/Closed-Sicilian-Defense
+B26,"Sicilian, Closed, 6.Be3",1 e4 c5 2 Nc3 Nc6 3 g3 g6 4 Bg2 Bg7 5 d3 d6 6 Be3,Sicilian Defense: Closed,https://www.chess.com/openings/Closed-Sicilian-Defense
+B27,Sicilian,1 e4 c5 2 Nf3,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B28,"Sicilian, O'Kelly Variation",1 e4 c5 2 Nf3 a6,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B29,"Sicilian, Nimzovich-Rubinstein",1 e4 c5 2 Nf3 Nf6,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B30,Sicilian,1 e4 c5 2 Nf3 Nc6,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B31,"Sicilian, Rossolimo Variation",1 e4 c5 2 Nf3 Nc6 3 Bb5 g6,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B32,Sicilian,1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 e5,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B33,Sicilian,1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B34,"Sicilian, Accelerated Fianchetto",1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 Nxc6,Sicilian Defense: Accelerated Dragon,https://www.chess.com/openings/Sicilian-Defense-Old-Sicilian-Open-Accelerated-Dragon-Variation
+B35,"Sicilian, Accelerated Fianchetto, Modern Variation with Bc4",1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 Nc3 Bg7 6 Be3 Nf6 7 Bc4,Sicilian Defense: Accelerated Dragon,https://www.chess.com/openings/Sicilian-Defense-Old-Sicilian-Open-Accelerated-Dragon-Variation
+B36,"Sicilian, Accelerated Fianchetto",1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4,Sicilian Defense: Accelerated Dragon,https://www.chess.com/openings/Sicilian-Defense-Old-Sicilian-Open-Accelerated-Dragon-Variation
+B37,"Sicilian, Accelerated Fianchetto",1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4 Bg7,Sicilian Defense: Accelerated Dragon,https://www.chess.com/openings/Sicilian-Defense-Old-Sicilian-Open-Accelerated-Dragon-Variation
+B38,"Sicilian, Accelerated Fianchetto, Maroczy Bind, 6.Be3",1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4 Bg7 6 Be3,Sicilian Defense: Accelerated Dragon,https://www.chess.com/openings/Sicilian-Defense-Old-Sicilian-Open-Accelerated-Dragon-Variation
+B39,"Sicilian, Accelerated Fianchetto, Breyer Variation",1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 g6 5 c4 Bg7 6 Be3 Nf6 7 Nc3 Ng4,Sicilian Defense: Accelerated Dragon,https://www.chess.com/openings/Sicilian-Defense-Old-Sicilian-Open-Accelerated-Dragon-Variation
+B40,Sicilian,1 e4 c5 2 Nf3 e6,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B41,"Sicilian, Kan",1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 a6,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B42,"Sicilian, Kan",1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 a6 5 Bd3,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B43,"Sicilian, Kan, 5.Nc3",1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 a6 5 Nc3,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B44,Sicilian,1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B45,"Sicilian, Taimanov",1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3,Sicilian Defense: Taimanov,https://www.chess.com/openings/Sicilian-Defense-Taimanov-Variation
+B46,"Sicilian, Taimanov Variation",1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 a6,Sicilian Defense: Taimanov,https://www.chess.com/openings/Sicilian-Defense-Taimanov-Variation
+B47,"Sicilian, Taimanov (Bastrikov) Variation",1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 Qc7,Sicilian Defense: Taimanov,https://www.chess.com/openings/Sicilian-Defense-Taimanov-Variation
+B48,"Sicilian, Taimanov Variation",1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 Qc7 6 Be3,Sicilian Defense: Taimanov,https://www.chess.com/openings/Sicilian-Defense-Taimanov-Variation
+B49,"Sicilian, Taimanov Variation",1 e4 c5 2 Nf3 e6 3 d4 cxd4 4 Nxd4 Nc6 5 Nc3 Qc7 6 Be3 a6 7 Be2,Sicilian Defense: Taimanov,https://www.chess.com/openings/Sicilian-Defense-Taimanov-Variation
+B50,Sicilian,1 e4 c5 2 Nf3 d6,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B51,"Sicilian, Canal-Sokolsky (Rossolimo) Attack",1 e4 c5 2 Nf3 d6 3 Bb5+,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B52,"Sicilian, Canal-Sokolsky (Rossolimo) Attack",1 e4 c5 2 Nf3 d6 3 Bb5+ Bd7,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B53,Sicilian,1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Qxd4,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B54,Sicilian,1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B55,"Sicilian, Prins Variation, Venice Attack",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 f3 e5 6 Bb5+,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B56,Sicilian,1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B57,Sicilian,1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bc4,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B58,Sicilian,1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 d6 6 Be2,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B59,"Sicilian, Boleslavsky Variation, 7.Nb3",1 e4 c5 2 Nf3 Nc6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 d6 6 Be2 e5 7 Nb3,Sicilian Defense,https://www.chess.com/openings/Sicilian-Defense
+B60,"Sicilian, Richter-Rauzer",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5,Sicilian Defense: Richter-Rauzer,https://www.chess.com/openings/Sicilian-Defense-Open-Classical-Richter-Rauzer-Variation
+B61,"Sicilian, Richter-Rauzer, Larsen Variation, 7.Qd2",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 Bd7 7 Qd2,Sicilian Defense: Richter-Rauzer,https://www.chess.com/openings/Sicilian-Defense-Open-Classical-Richter-Rauzer-Variation
+B62,"Sicilian, Richter-Rauzer",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6,Sicilian Defense: Richter-Rauzer,https://www.chess.com/openings/Sicilian-Defense-Open-Classical-Richter-Rauzer-Variation
+B63,"Sicilian, Richter-Rauzer Attack",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2,Sicilian Defense: Richter-Rauzer,https://www.chess.com/openings/Sicilian-Defense-Open-Classical-Richter-Rauzer-Variation
+B64,"Sicilian, Richter-Rauzer Attack",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 Be7 8 O-O-O O-O 9 f4,Sicilian Defense: Richter-Rauzer,https://www.chess.com/openings/Sicilian-Defense-Open-Classical-Richter-Rauzer-Variation
+B65,"Sicilian, Richter-Rauzer Attack, 7...Be7 Defense, 9...Nxd4",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 Be7 8 O-O-O O-O 9 f4 Nxd4 10 Qxd4,Sicilian Defense: Richter-Rauzer,https://www.chess.com/openings/Sicilian-Defense-Open-Classical-Richter-Rauzer-Variation
+B66,"Sicilian, Richter-Rauzer Attack, 7...a6",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6,Sicilian Defense: Richter-Rauzer,https://www.chess.com/openings/Sicilian-Defense-Open-Classical-Richter-Rauzer-Variation
+B67,"Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 8...Bd7",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6 8 O-O-O Bd7,Sicilian Defense: Richter-Rauzer,https://www.chess.com/openings/Sicilian-Defense-Open-Classical-Richter-Rauzer-Variation
+B68,"Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 9...Be7",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6 8 O-O-O Bd7 9 f4 Be7,Sicilian Defense: Richter-Rauzer,https://www.chess.com/openings/Sicilian-Defense-Open-Classical-Richter-Rauzer-Variation
+B69,"Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 11.Bxf6",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 Nc6 6 Bg5 e6 7 Qd2 a6 8 O-O-O Bd7 9 f4 Be7 10 Nf3 b5 11 Bxf6,Sicilian Defense: Richter-Rauzer,https://www.chess.com/openings/Sicilian-Defense-Open-Classical-Richter-Rauzer-Variation
+B70,"Sicilian, Dragon Variation",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6,Sicilian Defense: Dragon,https://www.chess.com/openings/Sicilian-Defense-Open-Dragon-Variation
+B71,"Sicilian, Dragon, Levenfish Variation",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 f4,Sicilian Defense: Dragon,https://www.chess.com/openings/Sicilian-Defense-Open-Dragon-Variation
+B72,"Sicilian, Dragon",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3,Sicilian Defense: Dragon,https://www.chess.com/openings/Sicilian-Defense-Open-Dragon-Variation
+B73,"Sicilian, Dragon, Classical",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 Be2 Nc6 8 O-O,Sicilian Defense: Dragon,https://www.chess.com/openings/Sicilian-Defense-Open-Dragon-Variation
+B74,"Sicilian, Dragon, Classical",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 Be2 Nc6 8 O-O O-O 9 Nb3,Sicilian Defense: Dragon,https://www.chess.com/openings/Sicilian-Defense-Open-Dragon-Variation
+B75,"Sicilian, Dragon, Yugoslav Attack",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3,Sicilian Defense: Dragon,https://www.chess.com/openings/Sicilian-Defense-Open-Dragon-Variation
+B76,"Sicilian, Dragon, Yugoslav Attack",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O,Sicilian Defense: Dragon,https://www.chess.com/openings/Sicilian-Defense-Open-Dragon-Variation
+B77,"Sicilian, Dragon, Yugoslav Attack",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2 Nc6 9 Bc4,Sicilian Defense: Dragon,https://www.chess.com/openings/Sicilian-Defense-Open-Dragon-Variation
+B78,"Sicilian, Dragon, Yugoslav Attack, 10.castle long",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2 Nc6 9 Bc4 Bd7 10 O-O-O,Sicilian Defense: Dragon,https://www.chess.com/openings/Sicilian-Defense-Open-Dragon-Variation
+B79,"Sicilian, Dragon, Yugoslav Attack, 12.h4",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 g6 6 Be3 Bg7 7 f3 O-O 8 Qd2 Nc6 9 Bc4 Bd7 10 O-O-O Qa5 11 Bb3 Rfc8 12 h4,Sicilian Defense: Dragon,https://www.chess.com/openings/Sicilian-Defense-Open-Dragon-Variation
+B80,"Sicilian, Scheveningen",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6,Sicilian Defense: Scheveningen,https://www.chess.com/openings/Sicilian-Defense-Open-Scheveningen-Variation
+B81,"Sicilian, Scheveningen, Keres Attack",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 g4,Sicilian Defense: Scheveningen,https://www.chess.com/openings/Sicilian-Defense-Open-Scheveningen-Variation
+B82,"Sicilian, Scheveningen",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 f4,Sicilian Defense: Scheveningen,https://www.chess.com/openings/Sicilian-Defense-Open-Scheveningen-Variation
+B83,Sicilian,1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Be2,Sicilian Defense: Scheveningen,https://www.chess.com/openings/Sicilian-Defense-Open-Scheveningen-Variation
+B84,"Sicilian, Scheveningen",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Be2 a6,Sicilian Defense: Scheveningen,https://www.chess.com/openings/Sicilian-Defense-Open-Scheveningen-Variation
+B85,"Sicilian, Scheveningen, Classical",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Be2 a6 7 O-O Qc7 8 f4 Nc6,Sicilian Defense: Scheveningen,https://www.chess.com/openings/Sicilian-Defense-Open-Scheveningen-Variation
+B86,"Sicilian, Fischer-Sozin Attack",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4,Sicilian Defense: Scheveningen,https://www.chess.com/openings/Sicilian-Defense-Open-Scheveningen-Variation
+B87,"Sicilian, Fischer-Sozin with ...a6 and ...b5",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4 a6 7 Bb3 b5,Sicilian Defense: Scheveningen,https://www.chess.com/openings/Sicilian-Defense-Open-Scheveningen-Variation
+B88,"Sicilian, Fischer-Sozin Attack",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4 Nc6,Sicilian Defense: Scheveningen,https://www.chess.com/openings/Sicilian-Defense-Open-Scheveningen-Variation
+B89,Sicilian,1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 e6 6 Bc4 Nc6 7 Be3,Sicilian Defense: Scheveningen,https://www.chess.com/openings/Sicilian-Defense-Open-Scheveningen-Variation
+B90,"Sicilian, Najdorf",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6,Sicilian Defense: Najdorf,https://www.chess.com/openings/Sicilian-Defense-Open-Najdorf-Variation
+B91,"Sicilian, Najdorf, Zagreb (Fianchetto) Variation",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 g3,Sicilian Defense: Najdorf,https://www.chess.com/openings/Sicilian-Defense-Open-Najdorf-Variation
+B92,"Sicilian, Najdorf, Opocensky Variation",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Be2,Sicilian Defense: Najdorf,https://www.chess.com/openings/Sicilian-Defense-Open-Najdorf-Variation
+B93,"Sicilian, Najdorf, 6.f4",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 f4,Sicilian Defense: Najdorf,https://www.chess.com/openings/Sicilian-Defense-Open-Najdorf-Variation
+B94,"Sicilian, Najdorf",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5,Sicilian Defense: Najdorf,https://www.chess.com/openings/Sicilian-Defense-Open-Najdorf-Variation
+B95,"Sicilian, Najdorf, 6...e6",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6,Sicilian Defense: Najdorf,https://www.chess.com/openings/Sicilian-Defense-Open-Najdorf-Variation
+B96,"Sicilian, Najdorf",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4,Sicilian Defense: Najdorf,https://www.chess.com/openings/Sicilian-Defense-Open-Najdorf-Variation
+B97,"Sicilian, Najdorf",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4 Qb6,Sicilian Defense: Najdorf,https://www.chess.com/openings/Sicilian-Defense-Open-Najdorf-Variation
+B98,"Sicilian, Najdorf",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4 Be7,Sicilian Defense: Najdorf,https://www.chess.com/openings/Sicilian-Defense-Open-Najdorf-Variation
+B99,"Sicilian, Najdorf, 7...Be7 Main line",1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Bg5 e6 7 f4 Be7 8 Qf3 Qc7 9 O-O-O Nbd7,Sicilian Defense: Najdorf,https://www.chess.com/openings/Sicilian-Defense-Open-Najdorf-Variation
+C00,French Defense,1 e4 e6,French Defense,https://www.chess.com/openings/French-Defense
+C01,"French, Exchange",1 e4 e6 2 d4 d5 3 exd5 exd5 4 Nc3 Nf6 5 Bg5,French Defense,https://www.chess.com/openings/French-Defense
+C02,"French, Advance",1 e4 e6 2 d4 d5 3 e5,French Defense: Advance,https://www.chess.com/openings/French-Defense-Advance-Variation
+C03,"French, Tarrasch",1 e4 e6 2 d4 d5 3 Nd2,French Defense: Tarrasch,https://www.chess.com/openings/French-Defense-Tarrasch-Variation
+C04,"French, Tarrasch, Guimard Main line",1 e4 e6 2 d4 d5 3 Nd2 Nc6 4 Ngf3 Nf6,French Defense: Tarrasch,https://www.chess.com/openings/French-Defense-Tarrasch-Variation
+C05,"French, Tarrasch",1 e4 e6 2 d4 d5 3 Nd2 Nf6,French Defense: Tarrasch,https://www.chess.com/openings/French-Defense-Tarrasch-Variation
+C06,"French, Tarrasch",1 e4 e6 2 d4 d5 3 Nd2 Nf6 4 e5 Nfd7 5 Bd3 c5 6 c3 Nc6 7 Ne2 cxd4 8 cxd4,French Defense: Tarrasch,https://www.chess.com/openings/French-Defense-Tarrasch-Variation
+C07,"French, Tarrasch",1 e4 e6 2 d4 d5 3 Nd2 c5,French Defense: Tarrasch,https://www.chess.com/openings/French-Defense-Tarrasch-Variation
+C08,"French, Tarrasch, Open, 4.ed ed",1 e4 e6 2 d4 d5 3 Nd2 c5 4 exd5 exd5,French Defense: Tarrasch,https://www.chess.com/openings/French-Defense-Tarrasch-Variation
+C09,"French, Tarrasch, Open Variation, Main line",1 e4 e6 2 d4 d5 3 Nd2 c5 4 exd5 exd5 5 Ngf3 Nc6,French Defense: Tarrasch,https://www.chess.com/openings/French-Defense-Tarrasch-Variation
+C10,French,1 e4 e6 2 d4 d5 3 Nc3,French Defense,https://www.chess.com/openings/French-Defense
+C11,French,1 e4 e6 2 d4 d5 3 Nc3 Nf6,French Defense: Classical,https://www.chess.com/openings/French-Defense-Classical-Variation
+C12,"French, McCutcheon",1 e4 e6 2 d4 d5 3 Nc3 Nf6 4 Bg5 Bb4,French Defense: Classical,https://www.chess.com/openings/French-Defense-Classical-Variation
+C13,French,1 e4 e6 2 d4 d5 3 Nc3 Nf6 4 Bg5 Be7,French Defense: Classical,https://www.chess.com/openings/French-Defense-Classical-Variation
+C14,"French, Classical",1 e4 e6 2 d4 d5 3 Nc3 Nf6 4 Bg5 Be7 5 e5 Nfd7 6 Bxe7 Qxe7,French Defense: Classical,https://www.chess.com/openings/French-Defense-Classical-Variation
+C15,"French, Winawer",1 e4 e6 2 d4 d5 3 Nc3 Bb4,French Defense: Winawer,https://www.chess.com/openings/French-Defense-Winawer-Variation
+C16,"French, Winawer",1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5,French Defense: Winawer,https://www.chess.com/openings/French-Defense-Winawer-Variation
+C17,"French, Winawer, Advance",1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5 c5,French Defense: Winawer,https://www.chess.com/openings/French-Defense-Winawer-Variation
+C18,"French, Winawer",1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5 c5 5 a3 Bxc3+ 6 bxc3,French Defense: Winawer,https://www.chess.com/openings/French-Defense-Winawer-Variation
+C19,"French, Winawer, Advance",1 e4 e6 2 d4 d5 3 Nc3 Bb4 4 e5 c5 5 a3 Bxc3+ 6 bxc3 Ne7,French Defense: Winawer,https://www.chess.com/openings/French-Defense-Winawer-Variation
+C20,King's Pawn Game,1 e4 e5,King's Pawn Game,https://www.chess.com/openings/Kings-Pawn-Opening
+C21,Center Game,1 e4 e5 2 d4 exd4,Center Game,https://www.chess.com/openings/Center-Game
+C22,Center Game,1 e4 e5 2 d4 exd4 3 Qxd4 Nc6,Center Game,https://www.chess.com/openings/Center-Game
+C23,Bishop's Opening,1 e4 e5 2 Bc4,Bishop's Opening,https://www.chess.com/openings/Bishops-Opening
+C24,Bishop's Opening,1 e4 e5 2 Bc4 Nf6,Bishop's Opening,https://www.chess.com/openings/Bishops-Opening
+C25,Vienna,1 e4 e5 2 Nc3,Vienna Game,https://www.chess.com/openings/Vienna-Game
+C26,Vienna,1 e4 e5 2 Nc3 Nf6,Vienna Game,https://www.chess.com/openings/Vienna-Game
+C27,Vienna Game,1 e4 e5 2 Nc3 Nf6 3 Bc4 Nxe4,Vienna Game,https://www.chess.com/openings/Vienna-Game
+C28,Vienna Game,1 e4 e5 2 Nc3 Nf6 3 Bc4 Nc6,Vienna Game,https://www.chess.com/openings/Vienna-Game
+C29,Vienna Gambit,1 e4 e5 2 Nc3 Nf6 3 f4,Vienna Gambit,https://www.chess.com/openings/Vienna-Game-Falkbeer-Vienna-Gambit
+C30,King's Gambit Declined,1 e4 e5 2 f4,King's Gambit Declined,https://www.chess.com/openings/Kings-Gambit-Declined-Falkbeer-Countergambit
+C31,"King's Gambit Declined, Falkbeer Counter Gambit",1 e4 e5 2 f4 d5,King's Gambit Declined,https://www.chess.com/openings/Kings-Gambit-Declined-Falkbeer-Countergambit
+C32,"King's Gambit Declined, Falkbeer Counter Gambit",1 e4 e5 2 f4 d5 3 exd5 e4 4 d3 Nf6,King's Gambit Declined,https://www.chess.com/openings/Kings-Gambit-Declined-Falkbeer-Countergambit
+C33,King's Gambit Accepted,1 e4 e5 2 f4 exf4,King's Gambit Accepted,https://www.chess.com/openings/Kings-Gambit-Accepted
+C34,King's Gambit Accepted,1 e4 e5 2 f4 exf4 3 Nf3,King's Gambit Accepted,https://www.chess.com/openings/Kings-Gambit-Accepted
+C35,"King's Gambit Accepted, Cunningham",1 e4 e5 2 f4 exf4 3 Nf3 Be7,King's Gambit Accepted,https://www.chess.com/openings/Kings-Gambit-Accepted
+C36,"King's Gambit Accepted, Abbazia Defense",1 e4 e5 2 f4 exf4 3 Nf3 d5,King's Gambit Accepted,https://www.chess.com/openings/Kings-Gambit-Accepted
+C37,King's Gambit Accepted,1 e4 e5 2 f4 exf4 3 Nf3 g5 4 Nc3,King's Gambit Accepted,https://www.chess.com/openings/Kings-Gambit-Accepted
+C38,King's Gambit Accepted,1 e4 e5 2 f4 exf4 3 Nf3 g5 4 Bc4 Bg7,King's Gambit Accepted,https://www.chess.com/openings/Kings-Gambit-Accepted
+C39,King's Gambit Accepted,1 e4 e5 2 f4 exf4 3 Nf3 g5 4 h4,King's Gambit Accepted,https://www.chess.com/openings/Kings-Gambit-Accepted
+C40,King's Knight Opening,1 e4 e5 2 Nf3,King's Knight Opening,https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation
+C41,Philidor Defense,1 e4 e5 2 Nf3 d6,Philidor Defense,https://www.chess.com/openings/Philidor-Defense
+C42,Petrov Defense,1 e4 e5 2 Nf3 Nf6,Petrov Defense,https://www.chess.com/openings/Petrovs-Defense
+C43,"Petrov, Modern Attack",1 e4 e5 2 Nf3 Nf6 3 d4 exd4 4 e5 Ne4 5 Qxd4,Petrov Defense,https://www.chess.com/openings/Petrovs-Defense
+C44,King's Pawn Game,1 e4 e5 2 Nf3 Nc6,King's Pawn Game,https://www.chess.com/openings/Kings-Pawn-Opening
+C45,Scotch Game,1 e4 e5 2 Nf3 Nc6 3 d4 exd4 4 Nxd4,Scotch Game,https://www.chess.com/openings/Scotch-Game
+C46,Three Knights,1 e4 e5 2 Nf3 Nc6 3 Nc3,Three Knights,https://www.chess.com/openings/Petrovs-Defense-Three-Knights-Game
+C47,Four Knights,1 e4 e5 2 Nf3 Nc6 3 Nc3 Nf6,Four Knights,https://www.chess.com/openings/Four-Knights-Game
+C48,Four Knights,1 e4 e5 2 Nf3 Nc6 3 Nc3 Nf6 4 Bb5,Four Knights,https://www.chess.com/openings/Four-Knights-Game
+C49,Four Knights,1 e4 e5 2 Nf3 Nc6 3 Nc3 Nf6 4 Bb5 Bb4,Four Knights,https://www.chess.com/openings/Four-Knights-Game
+C50,Giuoco Piano,1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5,Giuoco Piano,https://www.chess.com/openings/Giuoco-Piano-Game
+C51,Evans Gambit,1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 b4,Evans Gambit,https://www.chess.com/openings/Giuoco-Piano-Game-Evans-Gambit
+C52,Evans Gambit,1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 b4 Bxb4 5 c3 Ba5,Evans Gambit,https://www.chess.com/openings/Giuoco-Piano-Game-Evans-Gambit
+C53,Giuoco Piano,1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 c3,Giuoco Piano,https://www.chess.com/openings/Giuoco-Piano-Game
+C54,Giuoco Piano,1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 c3 Nf6 5 d4 exd4 6 cxd4,Giuoco Piano,https://www.chess.com/openings/Giuoco-Piano-Game
+C55,Two Knights Defense,1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6,Two Knights Defense,https://www.chess.com/openings/Italian-Game-Two-Knights-Defense
+C56,Two Knights,1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 d4 exd4 5 O-O Nxe4,Two Knights Defense,https://www.chess.com/openings/Italian-Game-Two-Knights-Defense
+C57,Two Knights,1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5,Two Knights Defense,https://www.chess.com/openings/Italian-Game-Two-Knights-Defense
+C58,Two Knights,1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5 d5 5 exd5 Na5,Two Knights Defense,https://www.chess.com/openings/Italian-Game-Two-Knights-Defense
+C59,Two Knights,1 e4 e5 2 Nf3 Nc6 3 Bc4 Nf6 4 Ng5 d5 5 exd5 Na5 6 Bb5+ c6 7 dxc6 bxc6 8 Be2 h6,Two Knights Defense,https://www.chess.com/openings/Italian-Game-Two-Knights-Defense
+C60,Ruy Lopez,1 e4 e5 2 Nf3 Nc6 3 Bb5,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C61,"Ruy Lopez, Bird's Defense",1 e4 e5 2 Nf3 Nc6 3 Bb5 Nd4,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C62,"Ruy Lopez, Old Steinitz Defense",1 e4 e5 2 Nf3 Nc6 3 Bb5 d6,Ruy Lopez: Old Steinitz Defense,https://www.chess.com/openings/Ruy-Lopez-Opening-Old-Steinitz-Defense
+C63,"Ruy Lopez, Schliemann Defense",1 e4 e5 2 Nf3 Nc6 3 Bb5 f5,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C64,"Ruy Lopez, Classical",1 e4 e5 2 Nf3 Nc6 3 Bb5 Bc5,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C65,"Ruy Lopez, Berlin Defense",1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6,Ruy Lopez: Berlin,https://www.chess.com/openings/Ruy-Lopez-Opening-Berlin-Defense
+C66,Ruy Lopez,1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 4 O-O d6,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C67,Ruy Lopez,1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 4 O-O Nxe4,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C68,"Ruy Lopez, Exchange",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Bxc6,Ruy Lopez: Exchange,https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Exchange-Variation
+C69,"Ruy Lopez, Exchange, Gligoric Variation",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Bxc6 dc 5 O-O f6,Ruy Lopez: Exchange,https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Exchange-Variation
+C70,Ruy Lopez,1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C71,Ruy Lopez,1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C72,"Ruy Lopez, Modern Steinitz Defense, 5.O-O",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 O-O,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C73,"Ruy Lopez, Modern Steinitz Defense",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 Bxc6+ bxc6 6 d4,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C74,"Ruy Lopez, Modern Steinitz Defense",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 c3,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C75,"Ruy Lopez, Modern Steinitz Defense",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 c3 Bd7,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C76,"Ruy Lopez, Modern Steinitz Defense, Fianchetto Variation",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 d6 5 c3 Bd7 6 d4 g6,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C77,Ruy Lopez,1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C78,Ruy Lopez,1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C79,"Ruy Lopez, Steinitz Defense Deferred",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O d6,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C80,"Ruy Lopez, Open",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C81,"Ruy Lopez, Open, Howell Attack",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4 6 d4 b5 7 Bb3 d5 8 dxe5 Be6 9 Qe2,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C82,"Ruy Lopez, Open",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4 6 d4 b5 7 Bb3 d5 8 dxe5 Be6 9 c3,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C83,"Ruy Lopez, Open",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Nxe4 6 d4 b5 7 Bb3 d5 8 dxe5 Be6,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C84,"Ruy Lopez, Closed",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C85,"Ruy Lopez, Exchange Variation Doubly Deferred (DERLD)",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Bxc6 dxc6,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C86,"Ruy Lopez, Worrall Attack",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Qe2,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C87,Ruy Lopez,1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 d6,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C88,Ruy Lopez,1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C89,"Ruy Lopez, Marshall",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d5,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C90,"Ruy Lopez, Closed",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C91,"Ruy Lopez, Closed",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 d4,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C92,"Ruy Lopez, Closed",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C93,"Ruy Lopez, Closed, Smyslov Defense",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 h6,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C94,"Ruy Lopez, Closed, Breyer Defense",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Nb8,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C95,"Ruy Lopez, Closed, Breyer",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Nb8 10 d4,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C96,"Ruy Lopez, Closed",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C97,"Ruy Lopez, Closed, Chigorin",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2 c5 11 d4 Qc7,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C98,"Ruy Lopez, Closed, Chigorin",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2 c5 11 d4 Qc7 12 Nbd2 Nc6,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+C99,"Ruy Lopez, Closed, Chigorin, 12...cd",1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 Re1 b5 7 Bb3 O-O 8 c3 d6 9 h3 Na5 10 Bc2 c5 11 d4 Qc7 12 Nbd2 cxd4 13 cxd4,Ruy Lopez,https://www.chess.com/openings/Ruy-Lopez-Opening
+D00,Queen's Pawn Game,1 d4 d5,Queen's Pawn Game,https://www.chess.com/openings/Queens-Pawn-Opening
+D01,Richter-Veresov Attack,1 d4 d5 2 Nc3 Nf6 3 Bg5,Richter-Veresov Attack,https://www.chess.com/openings/Richter-Veresov-Attack
+D02,Queen's Pawn Game,1 d4 d5 2 Nf3,Queen's Pawn Game,https://www.chess.com/openings/Queens-Pawn-Opening
+D03,Torre Attack (Tartakower Variation),1 d4 d5 2 Nf3 Nf6 3 Bg5,Torre Attack (Tartakower Variation),https://www.chess.com/openings/Queens-Pawn-Opening-Torre-Attack
+D04,Queen's Pawn Game,1 d4 d5 2 Nf3 Nf6 3 e3,Queen's Pawn Game,https://www.chess.com/openings/Queens-Pawn-Opening
+D05,Queen's Pawn Game,1 d4 d5 2 Nf3 Nf6 3 e3 e6,Queen's Pawn Game,https://www.chess.com/openings/Queens-Pawn-Opening
+D06,Queen's Gambit Declined,1 d4 d5 2 c4,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D07,"Queen's Gambit Declined, Chigorin Defense",1 d4 d5 2 c4 Nc6,Queen's Gambit Declined: Chigorin Defense,https://www.chess.com/openings/Queens-Gambit-Declined-Chigorin-Defense
+D08,"Queen's Gambit Declined, Albin Counter Gambit",1 d4 d5 2 c4 e5,Queen's Gambit Declined: Albin Countergambit,https://www.chess.com/openings/Queens-Gambit-Declined-Albin-Countergambit
+D09,"Queen's Gambit Declined, Albin Counter Gambit, 5.g3",1 d4 d5 2 c4 e5 3 dxe5 d4 4 Nf3 Nc6 5 g3,Queen's Gambit Declined: Albin Countergambit,https://www.chess.com/openings/Queens-Gambit-Declined-Albin-Countergambit
+D10,Queen's Gambit Declined Slav,1 d4 d5 2 c4 c6,Slav Defense,https://www.chess.com/openings/Slav-Defense
+D11,Queen's Gambit Declined Slav,1 d4 d5 2 c4 c6 3 Nf3,Slav Defense,https://www.chess.com/openings/Slav-Defense
+D12,Queen's Gambit Declined Slav,1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 e3 Bf5,Slav Defense,https://www.chess.com/openings/Slav-Defense
+D13,"Queen's Gambit Declined Slav, Exchange Variation",1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 cxd5 cxd5,Slav Defense,https://www.chess.com/openings/Slav-Defense
+D14,"Queen's Gambit Declined Slav, Exchange Variation",1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 cxd5 cxd5 5 Nc3 Nc6 6 Bf4 Bf5,Slav Defense,https://www.chess.com/openings/Slav-Defense
+D15,Queen's Gambit Declined Slav,1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3,Slav Defense,https://www.chess.com/openings/Slav-Defense
+D16,Queen's Gambit Declined Slav,1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4,Slav Defense,https://www.chess.com/openings/Slav-Defense
+D17,Queen's Gambit Declined Slav,1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4 Bf5,Slav Defense,https://www.chess.com/openings/Slav-Defense
+D18,"Queen's Gambit Declined Slav, Dutch",1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4 Bf5 6 e3,Slav Defense,https://www.chess.com/openings/Slav-Defense
+D19,"Queen's Gambit Declined Slav, Dutch",1 d4 d5 2 c4 c6 3 Nf3 Nf6 4 Nc3 dxc4 5 a4 Bf5 6 e3 e6 7 Bxc4 Bb4 8 O-O O-O 9 Qe2,Slav Defense,https://www.chess.com/openings/Slav-Defense
+D20,Queen's Gambit Accepted,1 d4 d5 2 c4 dxc4,Queen's Gambit Accepted,https://www.chess.com/openings/Queens-Gambit-Accepted
+D21,Queen's Gambit Accepted,1 d4 d5 2 c4 dxc4 3 Nf3,Queen's Gambit Accepted,https://www.chess.com/openings/Queens-Gambit-Accepted
+D22,Queen's Gambit Accepted,1 d4 d5 2 c4 dxc4 3 Nf3 a6 4 e3 Bg4 5 Bxc4 e6 6 d5,Queen's Gambit Accepted,https://www.chess.com/openings/Queens-Gambit-Accepted
+D23,Queen's Gambit Accepted,1 d4 d5 2 c4 dxc4 3 Nf3 Nf6,Queen's Gambit Accepted,https://www.chess.com/openings/Queens-Gambit-Accepted
+D24,Queen's Gambit Accepted,1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 Nc3,Queen's Gambit Accepted,https://www.chess.com/openings/Queens-Gambit-Accepted
+D25,Queen's Gambit Accepted,1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3,Queen's Gambit Accepted,https://www.chess.com/openings/Queens-Gambit-Accepted
+D26,Queen's Gambit Accepted,1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6,Queen's Gambit Accepted,https://www.chess.com/openings/Queens-Gambit-Accepted
+D27,"Queen's Gambit Accepted, Classical",1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4 c5 6 O-O a6,Queen's Gambit Accepted,https://www.chess.com/openings/Queens-Gambit-Accepted
+D28,"Queen's Gambit Accepted, Classical",1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4 c5 6 O-O a6 7 Qe2,Queen's Gambit Accepted,https://www.chess.com/openings/Queens-Gambit-Accepted
+D29,"Queen's Gambit Accepted, Classical",1 d4 d5 2 c4 dxc4 3 Nf3 Nf6 4 e3 e6 5 Bxc4 c5 6 O-O a6 7 Qe2 b5 8 Bb3 Bb7,Queen's Gambit Accepted,https://www.chess.com/openings/Queens-Gambit-Accepted
+D30,Queen's Gambit Declined,1 d4 d5 2 c4 e6,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D31,Queen's Gambit Declined,1 d4 d5 2 c4 e6 3 Nc3,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D32,"Queen's Gambit Declined, Tarrasch",1 d4 d5 2 c4 e6 3 Nc3 c5,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D33,"Queen's Gambit Declined, Tarrasch",1 d4 d5 2 c4 e6 3 Nc3 c5 4 cxd5 exd5 5 Nf3 Nc6 6 g3,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D34,"Queen's Gambit Declined, Tarrasch",1 d4 d5 2 c4 e6 3 Nc3 c5 4 cxd5 exd5 5 Nf3 Nc6 6 g3 Nf6 7 Bg2 Be7,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D35,Queen's Gambit Declined,1 d4 d5 2 c4 e6 3 Nc3 Nf6,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D36,"Queen's Gambit Declined, Exchange, Positional line, 6.Qc2",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 cxd5 exd5 5 Bg5 c6 6 Qc2,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D37,Queen's Gambit Declined,1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D38,"Queen's Gambit Declined, Ragozin Variation",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 Bb4,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D39,"Queen's Gambit Declined, Ragozin, Vienna Variation",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 Bb4 5 Bg5 dxc4,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D40,"Queen's Gambit Declined, Semi-Tarrasch",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c5,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D41,"Queen's Gambit Declined, Semi-Tarrasch",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c5 5 cxd5,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D42,"Queen's Gambit Declined, Semi-Tarrasch, 7.Bd3",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c5 5 cxd5 Nxd5 6 e3 Nc6 7 Bd3,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D43,Queen's Gambit Declined Semi-Slav,1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6,Semi-Slav Defense,https://www.chess.com/openings/Semi-Slav-Defense
+D44,Queen's Gambit Declined Semi-Slav,1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 Bg5 dxc4,Semi-Slav Defense,https://www.chess.com/openings/Semi-Slav-Defense
+D45,Queen's Gambit Declined Semi-Slav,1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3,Semi-Slav Defense,https://www.chess.com/openings/Semi-Slav-Defense
+D46,Queen's Gambit Declined Semi-Slav,1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3,Semi-Slav Defense,https://www.chess.com/openings/Semi-Slav-Defense
+D47,Queen's Gambit Declined Semi-Slav,1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4,Semi-Slav Defense,https://www.chess.com/openings/Semi-Slav-Defense
+D48,"Queen's Gambit Declined Semi-Slav, Meran",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4 b5 8 Bd3 a6,Semi-Slav Defense,https://www.chess.com/openings/Semi-Slav-Defense
+D49,"Queen's Gambit Declined Semi-Slav, Meran",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Nf3 c6 5 e3 Nbd7 6 Bd3 dxc4 7 Bxc4 b5 8 Bd3 a6 9 e4 c5 10 e5 cxd4 11 Nxb5,Semi-Slav Defense,https://www.chess.com/openings/Semi-Slav-Defense
+D50,Queen's Gambit Declined,1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D51,Queen's Gambit Declined,1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Nbd7,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D52,Queen's Gambit Declined,1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Nbd7 5 e3 c6 6 Nf3,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D53,Queen's Gambit Declined,1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D54,"Queen's Gambit Declined, Anti-Neo-Orthodox Variation",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Rc1,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D55,Queen's Gambit Declined,1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D56,Queen's Gambit Declined,1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D57,"Queen's Gambit Declined, Lasker Defense",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4 Ne4 8 Bxe7 Qxe7,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4 b6,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D59,"Queen's Gambit Declined, Tartakower",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 h6 7 Bh4 b6 8 cxd5 Nxd5,Queen's Gambit Declined,https://www.chess.com/openings/Queens-Gambit-Declined
+D60,"Queen's Gambit Declined, Orthodox Defense",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7,Queen's Gambit Declined: Orthodox,https://www.chess.com/openings/Queens-Gambit-Declined-Orthodox-Defense
+D61,"Queen's Gambit Declined, Orthodox, Rubinstein Attack",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Qc2,Queen's Gambit Declined: Orthodox,https://www.chess.com/openings/Queens-Gambit-Declined-Orthodox-Defense
+D62,"Queen's Gambit Declined, Orthodox, Rubinstein Attack",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Qc2 c5 8 cxd5,Queen's Gambit Declined: Orthodox,https://www.chess.com/openings/Queens-Gambit-Declined-Orthodox-Defense
+D63,"Queen's Gambit Declined, Orthodox Defense",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1,Queen's Gambit Declined: Orthodox,https://www.chess.com/openings/Queens-Gambit-Declined-Orthodox-Defense
+D64,"Queen's Gambit Declined, Orthodox, Rubinstein Attack",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Qc2,Queen's Gambit Declined: Orthodox,https://www.chess.com/openings/Queens-Gambit-Declined-Orthodox-Defense
+D65,"Queen's Gambit Declined, Orthodox, Rubinstein Attack, Main line",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Qc2 a6 9 cxd5,Queen's Gambit Declined: Orthodox,https://www.chess.com/openings/Queens-Gambit-Declined-Orthodox-Defense
+D66,"Queen's Gambit Declined, Orthodox Defense, Bd3 line",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3,Queen's Gambit Declined: Orthodox,https://www.chess.com/openings/Queens-Gambit-Declined-Orthodox-Defense
+D67,"Queen's Gambit Declined, Orthodox Defense, Bd3 line",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3 dxc4 9 Bxc4 Nd5,Queen's Gambit Declined: Orthodox,https://www.chess.com/openings/Queens-Gambit-Declined-Orthodox-Defense
+D68,"Queen's Gambit Declined, Orthodox Defense, Classical",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3 dxc4,Queen's Gambit Declined: Orthodox,https://www.chess.com/openings/Queens-Gambit-Declined-Orthodox-Defense
+D69,"Queen's Gambit Declined, Orthodox Defense, Classical, 13.de",1 d4 d5 2 c4 e6 3 Nc3 Nf6 4 Bg5 Be7 5 e3 O-O 6 Nf3 Nbd7 7 Rc1 c6 8 Bd3 dxc4,Queen's Gambit Declined: Orthodox,https://www.chess.com/openings/Queens-Gambit-Declined-Orthodox-Defense
+D70,Neo-Grunfeld Defense,1 d4 Nf6 2 c4 g6 3 f3 d5,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+D71,Neo-Grunfeld,1 d4 Nf6 2 c4 g6 3 g3 d5,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+D72,"Neo-Grunfeld, 5.cd, Main line",1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 cxd5 Nxd5 6 e4 Nb6 7 Ne2,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+D73,"Neo-Grunfeld, 5.Nf3",1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+D74,"Neo-Grunfeld, 6.cd Nxd5, 7.O-O",1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 cxd5 Nxd5 7 O-O,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+D75,"Neo-Grunfeld, 6.cd Nxd5, 7.O-O c5, 8.dxc5",1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 cxd5 Nxd5 7 O-O c5 8 dxc5,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+D76,"Neo-Grunfeld, 6.cd Nxd5, 7.O-O Nb6",1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 cxd5 Nxd5 7 O-O Nb6,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+D77,"Neo-Grunfeld, 6.O-O",1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 O-O,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+D78,"Neo-Grunfeld, 6.O-O c6",1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 O-O c6,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+D79,"Neo-Grunfeld, 6.O-O, Main line",1 d4 Nf6 2 c4 g6 3 g3 d5 4 Bg2 Bg7 5 Nf3 O-O 6 O-O c6 7 cxd5 cxd5,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+D80,Grunfeld,1 d4 Nf6 2 c4 g6 3 Nc3 d5,Grunfeld Defense,https://www.chess.com/openings/Grunfeld-Defense
+D81,"Grunfeld, Russian Variation",1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Qb3,Grunfeld Defense,https://www.chess.com/openings/Grunfeld-Defense
+D82,"Grunfeld, 4.Bf4",1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4,Grunfeld Defense,https://www.chess.com/openings/Grunfeld-Defense
+D83,"Grunfeld, Grunfeld Gambit",1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4 Bg7 5 e3 O-O,Grunfeld Defense,https://www.chess.com/openings/Grunfeld-Defense
+D84,"Grunfeld, Grunfeld Gambit Accepted",1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Bf4 Bg7 5 e3 O-O 6 cxd5 Nxd5 7 Nxd5 Qxd5 8 Bxc7,Grunfeld Defense,https://www.chess.com/openings/Grunfeld-Defense
+D85,Grunfeld,1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5,Grunfeld Defense: Exchange,https://www.chess.com/openings/Grunfeld-Defense-Exchange-Variation
+D86,"Grunfeld, Exchange",1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4,Grunfeld Defense: Exchange,https://www.chess.com/openings/Grunfeld-Defense-Exchange-Variation
+D87,"Grunfeld, Exchange",1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4 O-O 8 Ne2 c5,Grunfeld Defense: Exchange,https://www.chess.com/openings/Grunfeld-Defense-Exchange-Variation
+D88,"Grunfeld, Spassky Variation, Main line, 10...cd, 11.cd",1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4 O-O 8 Ne2,Grunfeld Defense: Exchange,https://www.chess.com/openings/Grunfeld-Defense-Exchange-Variation
+D89,Grunfeld,1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Bc4 O-O 8 Ne2,Grunfeld Defense: Exchange,https://www.chess.com/openings/Grunfeld-Defense-Exchange-Variation
+D90,Grunfeld,1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3,Grunfeld Defense,https://www.chess.com/openings/Grunfeld-Defense
+D91,"Grunfeld, 5.Bg5",1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Bg5,Grunfeld Defense,https://www.chess.com/openings/Grunfeld-Defense
+D92,"Grunfeld, 5.Bf4",1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Bf4,Grunfeld Defense,https://www.chess.com/openings/Grunfeld-Defense
+D93,"Grunfeld, with Bf4 & e3",1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Bf4 O-O 6 e3,Grunfeld Defense,https://www.chess.com/openings/Grunfeld-Defense
+D94,Grunfeld,1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 e3,Grunfeld Defense,https://www.chess.com/openings/Grunfeld-Defense
+D95,Grunfeld,1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 e3 O-O 6 Qb3,Grunfeld Defense,https://www.chess.com/openings/Grunfeld-Defense
+D96,"Grunfeld, Russian Variation",1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3,Grunfeld Defense,https://www.chess.com/openings/Grunfeld-Defense
+D97,"Grunfeld, Russian",1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3 dxc4 6 Qxc4 O-O 7 e4,Grunfeld Defense,https://www.chess.com/openings/Grunfeld-Defense
+D98,"Grunfeld, Russian",1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3 dxc4 6 Qxc4 O-O 7 e4 Bg4,Grunfeld Defense,https://www.chess.com/openings/Grunfeld-Defense
+D99,"Grunfeld Defense, Smyslov",1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 Nf3 Bg7 5 Qb3 dxc4 6 Qxc4 O-O 7 e4 Bg4 8 Be3,Grunfeld Defense,https://www.chess.com/openings/Grunfeld-Defense
+E00,Queen's Pawn Game,1 d4 Nf6 2 c4 e6,Queen's Pawn Game,https://www.chess.com/openings/Queens-Pawn-Opening
+E01,"Catalan, Closed",1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2,Catalan,https://www.chess.com/openings/Catalan-Opening
+E02,"Catalan, Open, 5.Qa4",1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Qa4+,Catalan,https://www.chess.com/openings/Catalan-Opening
+E03,"Catalan, Open",1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Qa4+ Nbd7 6 Qxc4,Catalan,https://www.chess.com/openings/Catalan-Opening
+E04,"Catalan, Open, 5.Nf3",1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Nf3,Catalan,https://www.chess.com/openings/Catalan-Opening
+E05,"Catalan, Open, Classical line",1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 dxc4 5 Nf3 Be7,Catalan,https://www.chess.com/openings/Catalan-Opening
+E06,"Catalan, Closed, 5.Nf3",1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3,Catalan: Closed,https://www.chess.com/openings/Catalan-Opening-Closed
+E07,"Catalan, Closed",1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3 O-O 6 O-O Nbd7,Catalan: Closed,https://www.chess.com/openings/Catalan-Opening-Closed
+E08,"Catalan, Closed",1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3 O-O 6 O-O Nbd7 7 Qc2,Catalan: Closed,https://www.chess.com/openings/Catalan-Opening-Closed
+E09,"Catalan, Closed",1 d4 Nf6 2 c4 e6 3 g3 d5 4 Bg2 Be7 5 Nf3 O-O 6 O-O Nbd7 7 Qc2 c6 8 Nbd2,Catalan: Closed,https://www.chess.com/openings/Catalan-Opening-Closed
+E10,Queen's Pawn Game,1 d4 Nf6 2 c4 e6 3 Nf3,Queen's Pawn Game,https://www.chess.com/openings/Queens-Pawn-Opening
+E11,Bogo-Indian Defense,1 d4 Nf6 2 c4 e6 3 Nf3 Bb4+,Bogo-Indian Defense,https://www.chess.com/openings/Bogo-Indian-Defense
+E12,Queen's Indian,1 d4 Nf6 2 c4 e6 3 Nf3 b6,Queen's Indian,https://www.chess.com/openings/Queens-Indian-Defense
+E13,"Queen's Indian, 4.Nc3, Main line",1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 Nc3 Bb7 5 Bg5 h6 6 Bh4 Bb4,Queen's Indian,https://www.chess.com/openings/Queens-Indian-Defense
+E14,Queen's Indian,1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 e3,Queen's Indian,https://www.chess.com/openings/Queens-Indian-Defense
+E15,Queen's Indian,1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3,Queen's Indian,https://www.chess.com/openings/Queens-Indian-Defense
+E16,Queen's Indian,1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Bb4+,Queen's Indian,https://www.chess.com/openings/Queens-Indian-Defense
+E17,Queen's Indian,1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Be7,Queen's Indian,https://www.chess.com/openings/Queens-Indian-Defense
+E18,"Queen's Indian, Old Main line, 7.Nc3",1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Be7 6 O-O O-O 7 Nc3,Queen's Indian,https://www.chess.com/openings/Queens-Indian-Defense
+E19,"Queen's Indian, Old Main line, 9.Qxc3",1 d4 Nf6 2 c4 e6 3 Nf3 b6 4 g3 Bb7 5 Bg2 Be7 6 O-O O-O 7 Nc3 Ne4 8 Qc2 Nxc3,Queen's Indian,https://www.chess.com/openings/Queens-Indian-Defense
+E20,Nimzo-Indian,1 d4 Nf6 2 c4 e6 3 Nc3 Bb4,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E21,"Nimzo-Indian, Three Knights",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Nf3,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E22,"Nimzo-Indian, Spielmann Variation",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qb3,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E23,"Nimzo-Indian, Spielmann",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qb3 c5 5 dxc5 Nc6,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E24,"Nimzo-Indian, Samisch",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3,Nimzo-Indian: Samisch,https://www.chess.com/openings/Nimzo-Indian-Defense-Samisch-Variation
+E25,"Nimzo-Indian, Samisch",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 c5 6 f3 d5 7 cxd5,Nimzo-Indian: Samisch,https://www.chess.com/openings/Nimzo-Indian-Defense-Samisch-Variation
+E26,"Nimzo-Indian, Samisch",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 c5 6 e3,Nimzo-Indian: Samisch,https://www.chess.com/openings/Nimzo-Indian-Defense-Samisch-Variation
+E27,"Nimzo-Indian, Samisch Variation",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 O-O,Nimzo-Indian: Samisch,https://www.chess.com/openings/Nimzo-Indian-Defense-Samisch-Variation
+E28,"Nimzo-Indian, Samisch Variation",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 O-O 6 e3,Nimzo-Indian: Samisch,https://www.chess.com/openings/Nimzo-Indian-Defense-Samisch-Variation
+E29,"Nimzo-Indian, Samisch",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 a3 Bxc3+ 5 bxc3 O-O 6 e3 c5 7 Bd3 Nc6,Nimzo-Indian: Samisch,https://www.chess.com/openings/Nimzo-Indian-Defense-Samisch-Variation
+E30,"Nimzo-Indian, Leningrad",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Bg5,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E31,"Nimzo-Indian, Leningrad, Main line",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Bg5 h6 5 Bh4 c5 6 d5 d6,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E32,"Nimzo-Indian, Classical",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2,Nimzo-Indian: Classical,https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Variation
+E33,"Nimzo-Indian, Classical",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 Nc6,Nimzo-Indian: Classical,https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Variation
+E34,"Nimzo-Indian, Classical, Noa Variation",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5,Nimzo-Indian: Classical,https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Variation
+E35,"Nimzo-Indian, Classical, Noa Variation, 5.cd ed",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5 5 cxd5 exd5,Nimzo-Indian: Classical,https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Variation
+E36,"Nimzo-Indian, Classical",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5 5 a3,Nimzo-Indian: Classical,https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Variation
+E37,"Nimzo-Indian, Classical",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 d5 5 a3 Bxc3+ 6 Qxc3 Ne4 7 Qc2,Nimzo-Indian: Classical,https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Variation
+E38,"Nimzo-Indian, Classical, 4...c5",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 c5,Nimzo-Indian: Classical,https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Variation
+E39,"Nimzo-Indian, Classical, Pirc Variation",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 Qc2 c5 5 dxc5 O-O,Nimzo-Indian: Classical,https://www.chess.com/openings/Nimzo-Indian-Defense-Classical-Variation
+E40,"Nimzo-Indian, 4.e3",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E41,Nimzo-Indian,1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 c5,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E42,"Nimzo-Indian, 4.e3 c5, 5.Ne2 (Rubinstein)",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 c5 5 Ne2,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E43,"Nimzo-Indian, Fischer Variation",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 b6,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E44,"Nimzo-Indian, Fischer Variation, 5.Ne2",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 b6 5 Ne2,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E45,"Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 b6 5 Ne2 Ba6,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E46,Nimzo-Indian,1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E47,"Nimzo-Indian, 4.e3 O-O 5.Bd3",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Bd3,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E48,"Nimzo-Indian, 4.e3 O-O 5.Bd3 d5",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Bd3 d5,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E49,"Nimzo-Indian, 4.e3, Botvinnik System",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Bd3 d5 6 a3 Bxc3+ 7 bxc3,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E50,"Nimzo-Indian, 4.e3 O-O 5.Nf3, without ...d5",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E51,"Nimzo-Indian, 4.e3",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E52,"Nimzo-Indian, 4.e3, Main line with ...b6",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 b6,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E53,"Nimzo-Indian, 4.e3",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E54,"Nimzo-Indian, 4.e3, Gligoric System",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O dxc4 8 Bxc4,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E55,"Nimzo-Indian, 4.e3, Gligoric System, Bronstein Variation",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O dxc4 8 Bxc4 Nbd7,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E56,"Nimzo-Indian, 4.e3, Main line with 7...Nc6",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E57,"Nimzo-Indian, 4.e3, Main line with 8...dc and 9...cd",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6 8 a3 dxc4 9 Bxc4,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E58,"Nimzo-Indian, 4.e3, Main line with 8...Bxc3",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6 8 a3 Bxc3 9 bxc3,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E59,"Nimzo-Indian, 4.e3, Main line",1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Nf3 d5 6 Bd3 c5 7 O-O Nc6 8 a3 Bxc3 9 bxc3 dxc4 10 Bxc4,Nimzo-Indian,https://www.chess.com/openings/Nimzo-Indian-Defense
+E60,King's Indian Defense,1 d4 Nf6 2 c4 g6,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+E61,King's Indian,1 d4 Nf6 2 c4 g6 3 Nc3,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+E62,"King's Indian, Fianchetto",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3,King's Indian Defense: Fianchetto,https://www.chess.com/openings/Kings-Indian-Defense-Normal-Fianchetto-Variation
+E63,"King's Indian, Fianchetto, Panno Variation",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nc6 7 O-O a6,King's Indian Defense: Fianchetto,https://www.chess.com/openings/Kings-Indian-Defense-Normal-Fianchetto-Variation
+E64,"King's Indian, Fianchetto, Yugoslav System",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 c5,King's Indian Defense: Fianchetto,https://www.chess.com/openings/Kings-Indian-Defense-Normal-Fianchetto-Variation
+E65,"King's Indian, Fianchetto, Yugoslav, 7.O-O",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 c5 7 O-O,King's Indian Defense: Fianchetto,https://www.chess.com/openings/Kings-Indian-Defense-Normal-Fianchetto-Variation
+E66,"King's Indian, Fianchetto, Yugoslav Panno",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 c5 7 O-O Nc6 8 d5,King's Indian Defense: Fianchetto,https://www.chess.com/openings/Kings-Indian-Defense-Normal-Fianchetto-Variation
+E67,"King's Indian, Fianchetto",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nbd7,King's Indian Defense: Fianchetto,https://www.chess.com/openings/Kings-Indian-Defense-Normal-Fianchetto-Variation
+E68,"King's Indian, Fianchetto, Classical Variation, 8.e4",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nbd7 7 O-O e5 8 e4,King's Indian Defense: Fianchetto,https://www.chess.com/openings/Kings-Indian-Defense-Normal-Fianchetto-Variation
+E69,"King's Indian, Fianchetto, Classical Main line",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 Nf3 d6 5 g3 O-O 6 Bg2 Nbd7 7 O-O e5 8 e4 c6 9 h3,King's Indian Defense: Fianchetto,https://www.chess.com/openings/Kings-Indian-Defense-Normal-Fianchetto-Variation
+E70,King's Indian,1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+E71,"King's Indian, Makagonov System (5.h3)",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 h3,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+E72,King's Indian,1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 g3,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+E73,King's Indian,1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Be2,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+E74,"King's Indian, Averbakh, 6...c5",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Be2 O-O 6 Bg5 c5,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+E75,"King's Indian, Averbakh, Main line",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Be2 O-O 6 Bg5 c5 7 d5 e6,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+E76,"King's Indian, Four Pawns Attack",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4,King's Indian Defense: Four Pawns Attack,https://www.chess.com/openings/Kings-Indian-Defense-Four-Pawns-Attack
+E77,King's Indian,1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4 O-O 6 Be2,King's Indian Defense: Four Pawns Attack,https://www.chess.com/openings/Kings-Indian-Defense-Four-Pawns-Attack
+E78,"King's Indian, Four Pawns Attack, with Be2 and Nf3",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4 O-O 6 Be2 c5 7 Nf3,King's Indian Defense: Four Pawns Attack,https://www.chess.com/openings/Kings-Indian-Defense-Four-Pawns-Attack
+E79,"King's Indian, Four Pawns Attack, Main line",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f4 O-O 6 Be2 c5 7 Nf3 cxd4 8 Nxd4 Nc6 9 Be3,King's Indian Defense: Four Pawns Attack,https://www.chess.com/openings/Kings-Indian-Defense-Four-Pawns-Attack
+E80,"King's Indian, Samisch Variation",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3,King's Indian Defense: Samisch,https://www.chess.com/openings/Kings-Indian-Defense-Samisch-Variation
+E81,"King's Indian, Samisch",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O,King's Indian Defense: Samisch,https://www.chess.com/openings/Kings-Indian-Defense-Samisch-Variation
+E82,"King's Indian, Samisch, double Fianchetto Variation",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 b6,King's Indian Defense: Samisch,https://www.chess.com/openings/Kings-Indian-Defense-Samisch-Variation
+E83,"King's Indian, Samisch",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 Nc6,King's Indian Defense: Samisch,https://www.chess.com/openings/Kings-Indian-Defense-Samisch-Variation
+E84,"King's Indian, Samisch, Panno Main line",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 Nc6 7 Nge2 a6 8 Qd2 Rb8,King's Indian Defense: Samisch,https://www.chess.com/openings/Kings-Indian-Defense-Samisch-Variation
+E85,"King's Indian, Samisch, Orthodox Variation",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5,King's Indian Defense: Samisch,https://www.chess.com/openings/Kings-Indian-Defense-Samisch-Variation
+E86,"King's Indian, Samisch, Orthodox, 7.Nge2 c6",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 Nge2 c6,King's Indian Defense: Samisch,https://www.chess.com/openings/Kings-Indian-Defense-Samisch-Variation
+E87,"King's Indian, Samisch, Orthodox",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 d5,King's Indian Defense: Samisch,https://www.chess.com/openings/Kings-Indian-Defense-Samisch-Variation
+E88,"King's Indian, Samisch, Orthodox, 7.d5 c6",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 d5 c6,King's Indian Defense: Samisch,https://www.chess.com/openings/Kings-Indian-Defense-Samisch-Variation
+E89,"King's Indian, Samisch, Orthodox Main line",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 f3 O-O 6 Be3 e5 7 d5 c6 8 Nge2 cxd5,King's Indian Defense: Samisch,https://www.chess.com/openings/Kings-Indian-Defense-Samisch-Variation
+E90,King's Indian,1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+E91,King's Indian,1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+E92,King's Indian,1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+E93,"King's Indian, Petrosian System",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 d5 Nbd7,King's Indian Defense,https://www.chess.com/openings/Kings-Indian-Defense
+E94,"King's Indian, Orthodox",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O,King's Indian Defense: Orthodox,https://www.chess.com/openings/Kings-Indian-Defense-Orthodox-Variation
+E95,"King's Indian, Orthodox, 7...Nbd7, 8.Re1",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nbd7 8 Re1,King's Indian Defense: Orthodox,https://www.chess.com/openings/Kings-Indian-Defense-Orthodox-Variation
+E96,"King's Indian, Orthodox, 7...Nbd7, Main line",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nbd7 8 Re1 c6 9 Bf1 a5,King's Indian Defense: Orthodox,https://www.chess.com/openings/Kings-Indian-Defense-Orthodox-Variation
+E97,King's Indian,1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nc6,King's Indian Defense: Orthodox,https://www.chess.com/openings/Kings-Indian-Defense-Orthodox-Variation
+E98,"King's Indian, Orthodox, Taimanov, 9.Ne1",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nc6 8 d5 Ne7 9 Ne1,King's Indian Defense: Orthodox,https://www.chess.com/openings/Kings-Indian-Defense-Orthodox-Variation
+E99,"King's Indian, Orthodox, Taimanov",1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 O-O 6 Be2 e5 7 O-O Nc6 8 d5 Ne7 9 Ne1 Nd7 10 f3 f5,King's Indian Defense: Orthodox,https://www.chess.com/openings/Kings-Indian-Defense-Orthodox-Variation

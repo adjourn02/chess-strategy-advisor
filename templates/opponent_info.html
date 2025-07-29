@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% block content %}
+<link rel="stylesheet" href="../static/css/opponent_info.css">
+
+<div class="box">
+    <h1 id="selected_player">{{ player_name }}</h1>
+</div>
+<hr>
+
+<div class="container">
+
+    {# elo plots #}
+    <div class="select_label">&nbsp;&nbsp;Filter Players:
+        <select id="elo_dropdown">
+            <option value="top25" selected>Top 25 Opponents</option>
+            <option value="top10">Top 10 Opponents</option>
+            <option value="bot10">Bottom 10 Opponents</option>
+        </select>
+    </div>
+    <div class="chart-container">
+        <div class="chart" id="elochart">
+            <span class="load" id="load1">
+                <img src="../static/img/loading.gif" class="load-img"/>
+            </span>
+        </div>
+        <div class="chart" id="gameLenChart">
+            <span class="load" id="load2">
+                <img src="../static/img/loading.gif" class="load-img"/>
+            </span>
+        </div>
+    </div>
+
+    {# strategy plots #}
+    <div class="select_label">&nbsp;&nbsp;Filter Strategy:
+        <select id="filter_dropdown">
+            <option value="all" selected>All</option>
+            <option value="0.7">Confidence ≥ 0.7</option>
+            <option value="0.9">Confidence ≥ 0.9</option>
+        </select>
+    </div>
+    <div class="chart-container">
+        <div class="chart" id="white_strategy">
+            <span class="load" id="load3">
+                <img src="../static/img/loading.gif" class="load-img"/>
+            </span>
+        </div>
+        <div class="chart" id="black_strategy">
+            <span class="load" id="load4">
+                <img src="../static/img/loading.gif" class="load-img"/>
+            </span>
+        </div>
+    </div>
+    <div class="plot_notes">
+        *Difference - The difference of the average score of the user and the opponent(s). (if difference > 0, strength; else weakness) <br>
+        *Confidence - Is the statistical confidence that the difference is significant; also displayed beside the bars.
+        (confidence == 0.5, not confident; confidence == 1, highly confident)
+    </div>
+
+</div>
+
+{# D3.js library #}
+<script src="../static/lib/d3/d3.min.js"></script>
+<script src="../static/lib/d3-dsv/d3-dsv.min.js"></script>
+<script src="../static/lib/d3-fetch/d3-fetch.min.js"></script>
+<script src="../static/lib/d3-tip.min.js"></script>
+
+{# plots #}
+<script src="../static/js/elo_rating.js"></script>
+<script src="../static/js/group_opponent_strategy.js"></script>
+{% endblock %}

@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% block content %}
+<link rel="stylesheet" href="../static/css/index.css">
+
+<div class="container">
+
+    {# tournament dropdown #}
+    <form action="/" method="POST">
+        <div class="box" id="tourneyDropdown">
+            <label for="tournament">Tournament</label>
+            <select id="tournament" name="tournament_name" required>
+                <option value="">-- select a tournament --</option>
+                {% for name in tournament_names %}
+                    <option value="{{ name }}">{{ name }}</option>
+                {% endfor %}
+            </select>
+            <input type="submit" value="Submit">
+        </div>
+    </form>
+
+    {# show chosen tournament #}
+    {% if tournament_name %}
+    <div class="tournament-info"><span style="font-style: italic">{{ tournament_name }}</span></div>
+    {% endif %}
+    <br>
+
+    {# player dropdown #}
+    {% if names %}
+    <form action="/" method="POST">
+        <div class="box" id="playerDropdown">
+            <label for="player">Player</label>
+            <select id="player" name="player_name" required>
+                <option value="">-- select a player --</option>
+                {% for name in names %}
+                    <option value="{{ name }}">{{ name }}</option>
+                {% endfor %}
+            </select>
+            <input type="submit" value="Submit">
+        </div>
+    </form>
+
+</div>
+<hr>
+
+{% endif %}
+{% endblock %}
