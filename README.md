@@ -5,7 +5,7 @@ A web based tool to help a player prepare for an upcoming tournament on Chess.co
 The study's paper can be found on https://drive.google.com/file/d/1I_ndoT6L7sVo8AN_Un9e9n9_WopFye4k/view?usp=sharing.
 
 # Poster Presentation
-Poster: https://drive.google.com/file/d/1I_ndoT6L7sVo8AN_Un9e9n9_WopFye4k/view?usp=sharing
+Poster: https://drive.google.com/file/d/1I_ndoT6L7sVo8AN_Un9e9n9_WopFye4k/view?usp=sharing <br>
 Video: https://youtu.be/BifRWbYc8EU
 
 # Landing Page
