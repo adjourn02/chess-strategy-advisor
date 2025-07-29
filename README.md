@@ -6,6 +6,20 @@ CSA is developed in Python using the Flask framework. It leverages MongoDB as th
 - The back end processes requests for tournament, player, and strategy information, retrieving raw data from MongoDB and aggregating it before returning results to the front end. The front and back ends are designed to be scalable, allowing deployment on separate servers, though they can also run on a single machine.
 - The supporting scripts interact with the Chess.com public API and web pages to collect player data, compute strengths and weaknesses, and update the MongoDB database. These scripts are intended to run asynchronously and should be executed regularly to keep the data current.
 
+## Landing Page
+Player selects tournament and username
+<br><br>
+![index](index.png)
+
+## Strategy Page
+Figure below shows Elo ratings of a group of opponents (left plot), how they play special moves (left plot, on hover), and performance in long versus short term games (right plot).
+<br><br>
+![elo](elo.png)
+<br><br>
+Figure below shows opening strategies when playing white (left plot) or black (right plot). Strategies in red hues are not recommended while in blue hues are recommended.
+<br><br>
+![strategy](strategy.png)
+
 ## Installation
 1. Install Python 3.11 or higher. Installation files and instructions are available at https://www.python.org.
 2. Install the required packages from a terminal with the command: `pip install -r requirements.txt`
@@ -36,17 +50,3 @@ The study's paper can be found on https://drive.google.com/file/d/1I_ndoT6L7sVo8
 ## Poster Presentation
 Poster: https://drive.google.com/file/d/1I_ndoT6L7sVo8AN_Un9e9n9_WopFye4k/view?usp=sharing <br>
 Video: https://youtu.be/BifRWbYc8EU
-
-## Landing Page
-Player selects tournament and username
-<br><br>
-![index](index.png)
-
-## Strategy Page
-Figure below shows Elo ratings of a group of opponents (left plot), how they play special moves (left plot, on hover), and performance in long versus short term games (right plot).
-<br><br>
-![elo](elo.png)
-<br><br>
-Figure below shows opening strategies when playing white (left plot) or black (right plot). Strategies in red hues are not recommended while in blue hues are recommended.
-<br><br>
-![strategy](strategy.png)
